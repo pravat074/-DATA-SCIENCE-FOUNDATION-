@@ -1,2 +1,2 @@
-# -DATA-SCIENCE-FOUNDATION-
-Learning how to explain complex technical concepts in simple language according to the audience.
+# DATA-SCIENCE-FOUNDATION-
+This assignment is based on the Foundation of Data Science. Using NotebookLM, I explained the same concept to three different audiences: a 12th-grade student, a working professional, and a five-year-old child. I compared the explanations and identified how language, examples, and technical details change according to the audience. Finally, I created my own improved explanation to demonstrate my understanding of the topic.
